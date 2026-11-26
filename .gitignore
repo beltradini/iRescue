@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Xcode build products
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Xcode workspace state
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Dependency managers
+Pods/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
